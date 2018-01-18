@@ -1,5 +1,7 @@
 .DS_Store
 
+debug.log
+
 application/cache/*
 !application/cache/index.html
 
